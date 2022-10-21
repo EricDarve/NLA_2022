@@ -1,0 +1,48 @@
+body {
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7em;
+    max-width: 750px;
+}
+
+h1 {
+    font-size: 34px;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 20px;
+    font-style: italic;
+}
+
+h6 {
+    font-size: 18px;
+    font-style: italic;
+}
+
+a {
+    border-bottom: 2px solid #306FB6;
+    color: #306FB6;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #fff;
+    background: #306FB6;
+}
